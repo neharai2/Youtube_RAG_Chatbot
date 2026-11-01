@@ -1,0 +1,21 @@
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables and API keys
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# FAISS vector database
+vector_db/
+
+# Mac system files
+.DS_Store
+
+# IDE settings
+.vscode/
